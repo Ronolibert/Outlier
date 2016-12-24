@@ -1,0 +1,29 @@
+{
+  "name": "outlier",
+  "version": "1.0.0",
+  "description": "A graph library built on top of d3",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "jscs ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronolibert/Outlier.git"
+  },
+  "keywords": [
+    "graph",
+    "d3",
+    "charting"
+  ],
+  "author": "Ron Olibert Cruz <Ronolibert@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ronolibert/Outlier/issues"
+  },
+  "homepage": "https://github.com/Ronolibert/Outlier#readme",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "mocha": "3.2.0"
+  }
+}
